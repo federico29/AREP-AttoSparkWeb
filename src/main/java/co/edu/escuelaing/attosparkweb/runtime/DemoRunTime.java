@@ -9,7 +9,7 @@ public class DemoRunTime {
     public static void main(String[] args){
         port(getPort());
         get("/hello", "Hello world!");
-        get("/ramona", "Viva la vida loca!");
+        get("/ramona", "Hola Ramona!");
         get("/cr7", "El Bicho");
         startServer();
     }

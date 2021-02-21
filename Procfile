@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp "target/classes" co.edu.escuelaing.httpserver.HttpServer
+web: java $JAVA_OPTS -cp "target/classes" co.edu.escuelaing.attosparkweb.runtime.DemoRunTime
